@@ -1,0 +1,2 @@
+# VPS-MX-8.2
+SCRIPT
